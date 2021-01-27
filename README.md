@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Your Server
+
+### Team will update content of this webpage soon. Thanks for visiting us.
 
 You can use the [editor on GitHub](https://github.com/Your-Server/Your-Server.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
