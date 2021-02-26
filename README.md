@@ -16,3 +16,4 @@
 1. Saumil Sabhaya
 2. Zeal Patel
 
+<meta name="google-site-verification" content="sDWDRQ4cj-aqY6GqXepQBhwwq3voJTntTG0_JZZVyUI" />
