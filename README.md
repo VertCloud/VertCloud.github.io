@@ -1,4 +1,5 @@
-## Welcome to VertCloud ![Image](https://avatars.githubusercontent.com/u/78063526?s=400&u=e7ea7dd80c3e437f919e92ca1652e1f58c05c645&v=4)
+
+## <img width="100" height="100" src="https://avatars.githubusercontent.com/u/78063526?s=400&amp;u=e7ea7dd80c3e437f919e92ca1652e1f58c05c645&amp;v=4"> Welcome to VertCloud 
 
 ### Team will update content of this webpage soon. Thanks for visiting us.
 
